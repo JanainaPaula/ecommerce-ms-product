@@ -1,0 +1,8 @@
+#spring:
+#  data:
+#    mongodb:
+#      database: product-ms
+#      host: localhost
+#      port: 27017
+#      username: user
+#      password: 1234
